@@ -14,13 +14,13 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
 /**
- * <p>
- * 前端控制器
- * </p>
- *
- * @author Yanghu
- * @since 2018-11-22
- */
+　　* @Description: TODO
+　　* @param ${tags} 
+　　* @return ${return_type} 
+　　* @throws
+　　* @author ${USER}
+　　* @date 2018-11-22 18:23 
+　　*/
 @Controller
 @RequestMapping("/user")
 @Slf4j
